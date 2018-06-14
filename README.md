@@ -1,2 +1,2 @@
-# Initial page
+# 클린 코드 \(Summary\)
 
